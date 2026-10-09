@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "XMVideo",
-      "name": "熊猫视频",
+      "name": "🇨🇳全网 | 影视合集🇨🇳",
       "type": 3,
       "api": "csp_XMVideo",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "wxts",
-      "name": "无限臀山",
+      "name": "🇨🇳全网 | 影视合集🇨🇳1",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -30,8 +30,8 @@
       }
     },
     {
-      "key": "色播",
-      "name": "色播",
+      "key": "sebo",
+      "name": "🇨🇳全网 | 影视合集🇨🇳2",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "csp_ssfl",
-      "name": "涩涩",
+      "name": "🇨🇳全网 | 影视合集🇨🇳3",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -79,7 +79,7 @@
     },
     {
       "key": "112VV",
-      "name": "112VV",
+      "name": "🇨🇳全网 | 影视合集🇨🇳4",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -99,8 +99,8 @@
       }
     },
     {
-      "key": "指间的黑客",
-      "name": "激情",
+      "key": "zjdhk",
+      "name": "🇨🇳全网 | 影视合集🇨🇳4-1",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -120,8 +120,8 @@
       }
     },
     {
-      "key": "农夫与少妇",
-      "name": "精品VV",
+      "key": "ngysn",
+      "name": "🇨🇳全网 | 影视合集🇨🇳5",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -136,8 +136,8 @@
       }
     },
     {
-      "key": "155资源站",
-      "name": "155资源",
+      "key": "155zyz",
+      "name": "🇨🇳全网 | 影视合集🇨🇳6",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -146,8 +146,8 @@
       "ext": "proxy"
     },
     {
-      "key": "❤ 乐播资源",
-      "name": " ❤乐播",
+      "key": "leboziyuan",
+      "name": " 🇨🇳全网 | 影视合集🇨🇳7",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -155,16 +155,16 @@
       "filterable": 1
     },
     {
-      "key": "*大地资源",
-      "name": "大地",
+      "key": "dadizy",
+      "name": "🇨🇳全网 | 影视合集🇨🇳8",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "AV小次郎",
-      "name": "小次郎",
+      "key": "AVxcl",
+      "name": "🇨🇳全网 | 影视合集🇨🇳9",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jarr",
@@ -189,7 +189,7 @@
     },
     {
       "key": "DD",
-      "name": "滴滴",
+      "name": "🇨🇳全网 | 影视合集🇨🇳10",
       "type": 0,
       "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -197,8 +197,8 @@
       "filterable": 1
     },
     {
-      "key": "❤淫水机  ",
-      "name": "❤淫水机",
+      "key": "yingshuiji ",
+      "name": "🇨🇳全网 | 影视合集🇨🇳11",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -206,8 +206,8 @@
       "filterable": 1
     },
     {
-      "key": " ❤香奶儿  ",
-      "name": "❤香奶儿",
+      "key": "xner",
+      "name": "🇨🇳全网 | 影视合集🇨🇳12",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -215,8 +215,8 @@
       "filterable": 1
     },
     {
-      "key": "❤色猫资源",
-      "name": "❤色猫",
+      "key": "smzy",
+      "name": "🇨🇳全网 | 影视合集🇨🇳13",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -224,8 +224,8 @@
       "filterable": 1
     },
     {
-      "key": "Aries不承担任何风险-蜜桃屯",
-      "name": "🍑蜜桃┃影视",
+      "key": "Ariesbdrhfx",
+      "name": "🇨🇳全网 | 影视合集🇨🇳14",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/raw.githubusercontent.com/y03110619/y-tvbox/main/jar/xbpq.jar",
@@ -244,8 +244,8 @@
       }
     },
     {
-      "key": "Aries不承担任何风险-色弟弟",
-      "name": "都是弟弟",
+      "key": "Ariesbdrhfxsdd",
+      "name": "🇨🇳全网 | 影视合集🇨🇳15",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -254,7 +254,7 @@
       "filterable": 1,
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
-        "数组": "popup-video-link&&</a>",
+        "数组": "popup-vi1deo-link&&</a>",
         "标题": "<strong class=\"title\">&&</strong>",
         "图片": "original=\"&&\"",
         "链接": "href=\"&&\"",
@@ -264,8 +264,8 @@
       }
     },
     {
-      "key": "❤番号资源",
-      "name": "❤番",
+      "key": "fanhzy",
+      "name": "🇨🇳全网 | 影视合集🇨🇳16",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -273,8 +273,8 @@
       "filterable": 1
     },
     {
-      "key": "❤美少女   ",
-      "name": "❤美少女",
+      "key": "mmsnu ",
+      "name": "🇨🇳全网 | 影视合集🇨🇳17",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -282,8 +282,8 @@
       "filterable": 1
     },
     {
-      "key": " ❤白嫖资源 ",
-      "name": "❤白嫖",
+      "key": "baipzy",
+      "name": "🇨🇳全网 | 影视合集🇨🇳18",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -291,8 +291,8 @@
       "filterable": 1
     },
     {
-      "key": "❤黄AV资源 ",
-      "name": "❤黄",
+      "key": "havzy",
+      "name": "🇨🇳全网 | 影视合集🇨🇳19",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -300,8 +300,8 @@
       "filterable": 1
     },
     {
-      "key": "♥️富二代     ",
-      "name": "♥️富二代",
+      "key": "fuerdai",
+      "name": "🇨🇳全网 | 影视合集🇨🇳20",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=list",
       "searchable": 1,
@@ -309,8 +309,8 @@
       "filterable": 1
     },
     {
-      "key": "♥️森林专场",
-      "name": "♥️森林",
+      "key": "slzhuanc",
+      "name": "🇨🇳全网 | 影视合集🇨🇳21",
       "type": 1,
       "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -364,7 +364,7 @@
     },
     {
       "key": "api.sexnguon.com",
-      "name": "外语得学",
+      "name": "🇨🇳全网 | 影视合集🇨🇳22",
       "type": 1,
       "api": "http://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
